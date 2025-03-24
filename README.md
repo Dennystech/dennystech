@@ -1,4 +1,4 @@
-## Ola tudo bem? me chamo Denilson mais conhecido como Denys  👋
+## Ola tudo bem? me chamo Denilson todos me chama de Denys  👋
 
 
 - 🔭 Atualmente estudando Front-End
